@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    }
+
+html{
+    box-sizing: border-box;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+a{
+    color: aquamarine;
+}
+
+H1{
+    font-size: 3.125rem;
+}
+
+H2{
+    font-size: 2.625rem;
+    font-weight: 300;
+}
+
+H3{
+    font-size: 1.3125rem;
+    color:gray;
+}
+
+section{
+    margin: 2rem;
+}
