@@ -23,11 +23,13 @@ H1{
 H2{
     font-size: 2.625rem;
     font-weight: 300;
+    margin: 2rem;
 }
 
 H3{
     font-size: 1.3125rem;
     color:gray;
+    font-weight: normal;
 }
 
 section{
@@ -36,4 +38,16 @@ section{
 
 #app-video{
     margin: 2rem;
+
+}
+
+figure{
+    margin: 2rem;
+}
+
+footer{
+    text-align: right;
+    margin-bottom: 1rem;
+    margin-right: 1rem;
+    color: gray;
 }
